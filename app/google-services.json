@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "298060017185",
+    "firebase_url": "https://servicos-agenda-bb279-default-rtdb.firebaseio.com",
+    "project_id": "servicos-agenda-bb279",
+    "storage_bucket": "servicos-agenda-bb279.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298060017185:android:617336b4d69740abe5fd60",
+        "android_client_info": {
+          "package_name": "com.example.mac.firebasecursods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298060017185-ou5ao3otauqdsi1ac5dt1cong2aguvk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxIJTbqvGBpp5NgzpzsDNCS9P2muDHRNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298060017185-ou5ao3otauqdsi1ac5dt1cong2aguvk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298060017185:android:93bad9f8dcde78fbe5fd60",
+        "android_client_info": {
+          "package_name": "com.google.firebase.quickstart.database"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298060017185-ou5ao3otauqdsi1ac5dt1cong2aguvk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxIJTbqvGBpp5NgzpzsDNCS9P2muDHRNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298060017185-ou5ao3otauqdsi1ac5dt1cong2aguvk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298060017185:android:3a807611aea8455de5fd60",
+        "android_client_info": {
+          "package_name": "com.tavaresrit.petshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298060017185-ou5ao3otauqdsi1ac5dt1cong2aguvk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxIJTbqvGBpp5NgzpzsDNCS9P2muDHRNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298060017185-ou5ao3otauqdsi1ac5dt1cong2aguvk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298060017185:android:3868032394f44567e5fd60",
+        "android_client_info": {
+          "package_name": "com.tavaresrit.postapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298060017185-ou5ao3otauqdsi1ac5dt1cong2aguvk5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxIJTbqvGBpp5NgzpzsDNCS9P2muDHRNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298060017185-ou5ao3otauqdsi1ac5dt1cong2aguvk5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
